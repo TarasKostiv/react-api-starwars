@@ -1,0 +1,34 @@
+.footer__header{
+    font-size: 1.2rem;
+    width: 100%;
+}
+
+.footer__pict{
+    height: 25px;
+    width: auto;
+}
+
+.footer__list-item{
+    font-size: 1rem;
+}
+
+.social__list{
+    display: flex;
+    width: 60px;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 5px;
+    align-items: center;
+    margin-left: 5px;
+}
+
+.social__link{
+    height: 20px;
+    width: 20px;
+}
+
+.social__icon{
+    height: 25px;
+    width: 25px;
+    color: wheat;
+}
